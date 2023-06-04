@@ -16,7 +16,18 @@
 
 // 4. tìm ra những tác giả tên là "An"
 // ví dụ: "Ngo Ngoc An" là 1 kết quả đúng
-// 
+// còn "Nguyen Van Toan" là 1 kết quả sai
+
+// 5. Tìm xem có bao nhiêu cuốn sách có tên là "Lap trinh" và gia 100.000đ 
+
+// 6. Hiển thị thông tin của những cuốn sách có giá cao nhất
+
+// 7. Tính tổng tiền cho mỗi loại sách 
+// biết rằng thành tiền = giá sách*số lượng. 
+//Hiển thị đầy đủ thông tin về sách bao gồm cả thông tin tổng tiền
+
+// 8. Sắp xếp danh sách các cuốn sách theo chiều không giảm của giá sách. 
+// In ra thông tin của danh sách sau khi được sắp xếp
 
 #include <iostream>
 #include <string>
