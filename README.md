@@ -12,3 +12,5 @@ Những cái chỗ nào mà tôi code nó hay bị dài như này, đó là tạ
                 arr[i].ten = arr[j].ten;
                 arr[j].ten = temp2;
 => Đây là code của tôi khi chưa biết truyền tham chiếu trong lúc sắp xếp với struct
+
+3. Bài cây nấm độc _ Ứng dụng thuật toán sắp xếp với struct _ Tôi đã truyền tham chiếu để giúp code ngắn hơn thay vì phải chấm tên chấm tuổi
