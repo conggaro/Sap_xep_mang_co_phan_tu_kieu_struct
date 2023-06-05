@@ -7,7 +7,6 @@ Những cái chỗ nào mà tôi code nó hay bị dài như này, đó là tạ
                 temp1 = arr[i].id;
                 arr[i].id = arr[j].id;
                 arr[j].id = temp1;
-
                 temp2 = arr[i].ten;
                 arr[i].ten = arr[j].ten;
                 arr[j].ten = temp2;
